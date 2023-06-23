@@ -1,0 +1,30 @@
+h1 { 
+    background:red;
+}
+.paragraf1 {
+    background: blue;
+    font-size: 32pt;
+    color: brown;
+}
+.paragraf2 {
+    border: 10px solid green;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left:  20px;
+    font-style: Tahoma;
+}
+.paragraf3 {
+    
+    border-color: rgb(226, 43, 165);
+    border-radius: 10 px;
+    color: darkorange;
+    font-family: Verdana;
+}  
+.paragraf4 {
+    font-size: 24px;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: 2px 4px green;
+}
